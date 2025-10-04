@@ -1,2 +1,1 @@
-# gatewaybd
-GatewayBD is a modern eCommerce platform designed to connect customers across Bangladesh with trusted local and global products.
+GatewayBD is a modern eCommerce platform designed to connect customers across Bangladesh with trusted local and global products. Built for simplicity, speed, and security, it offers a seamless shopping experience with features like smart search, real-time order tracking, and multiple payment gateways. Whether it's fashion, electronics, or daily essentials, GatewayBD aims to become the digital gateway for hassle-free online shopping in Bangladesh.
